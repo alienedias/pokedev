@@ -11,7 +11,7 @@ header img {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url("../assets/images/background.png");
+  background-image: url("assets/images/background.png");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
